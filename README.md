@@ -8,9 +8,8 @@ I was pretty confused with what project I should do for my first Data Analysis P
 3. Is the female Employment overwhelming the employment scene?
 4. How have different employment fields done through the years?
 5. Did Egyptians leave the rural areas to live in urban cities?
-6. Generally, what are the top 10 change percentages through the years (Either Positive or Negative)?
-    >> Questions that I needed an answer to <<
-  >> Link to the file itself <<
+6. Generally, what are the top 10 change percentages through the years (Either Positive or Negative)?  
+[You can check the Excel file from here](Egypt data)
   >> Excel skills used <<
   >> The dataset used, what it has and what you used <<
 >> Dashboard build <<
